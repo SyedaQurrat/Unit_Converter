@@ -21,3 +21,4 @@ __pycache__/
 
 # Ignore deployment files (optional)
 *.sh
+"venv/" 

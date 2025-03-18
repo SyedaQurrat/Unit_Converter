@@ -19,7 +19,7 @@ Follow these steps to set up the project locally:
 
 1️⃣ **Clone the repository**
 ```sh
-git clone https://github.com/your-username/streamlit-unit-converter.git
+git clone https://github.com/SyedaQurrat/Unit_Converter.git
 cd streamlit-unit-converter
 ```
 
