@@ -1,0 +1,6 @@
+streamlit
+pyaudio
+pyttsx3
+sounddevice
+scipy
+matplotlib
